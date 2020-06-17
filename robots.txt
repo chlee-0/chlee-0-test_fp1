@@ -1,1 +1,1 @@
-Sitemap: test798.mathnt.net/sitemap.xml
+Sitemap: nb.mathnt.net/sitemap.xml
