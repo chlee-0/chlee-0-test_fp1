@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Fastpages Notebook Blog Post",
+            "title": "Example 1.1.8 (1) (computation in fields)",
             "content": "ring A=0,x,dp; . number n=12345/6789; . n^5; . 1179910858126071875/59350279669807543 .",
-            "url": "nb.mathnt.net/jupyter/2020/06/17/Example-1.1.8-(1)-(computation-in-fields).html",
-            "relUrl": "/jupyter/2020/06/17/Example-1.1.8-(1)-(computation-in-fields).html",
+            "url": "nb.mathnt.net/jupyter/singular/2020/06/17/Example-1.1.8-(1)-(computation-in-fields).html",
+            "relUrl": "/jupyter/singular/2020/06/17/Example-1.1.8-(1)-(computation-in-fields).html",
             "date": " • Jun 17, 2020"
         }
         
