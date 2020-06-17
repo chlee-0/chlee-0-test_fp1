@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: 수학노트 nb
-description: 주피터 노트북으로 쓰는 수학노트.
+description: 수학노트 주피터 노트북
 github_username: chlee-0
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "nb_mathnt_net"
