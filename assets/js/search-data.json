@@ -24,7 +24,7 @@
   
     
         ,"post2": {
-            "title": "mass of quadratic forms",
+            "title": "genus of quadratic forms",
             "content": "from sage.quadratic_forms.genera.genus import Genus from sage.quadratic_forms.genera.genus import GenusSymbol_global_ring A = DiagonalQuadraticForm(ZZ, [-1, 2, -3, 4, -5, 6, -7, 8, -9]).Hessian_matrix() Genus(A) . Genus of [ -2 0 0 0 0 0 0 0 0] [ 0 4 0 0 0 0 0 0 0] [ 0 0 -6 0 0 0 0 0 0] [ 0 0 0 8 0 0 0 0 0] [ 0 0 0 0 -10 0 0 0 0] [ 0 0 0 0 0 12 0 0 0] [ 0 0 0 0 0 0 -14 0 0] [ 0 0 0 0 0 0 0 16 0] [ 0 0 0 0 0 0 0 0 -18] Signature: (4, 5) Genus symbol at 2: [2^-5 4^2 8^1 16^1]_1 Genus symbol at 3: 1^6 3^2 9^1 Genus symbol at 5: 1^8 5^-1 Genus symbol at 7: 1^-8 7^-1 . from sage.quadratic_forms.genera.genus import p_adic_symbol from sage.quadratic_forms.genera.genus import Genus_Symbol_p_adic_ring . p=3 G3 = Genus_Symbol_p_adic_ring(p, p_adic_symbol(A, p, 2)); G3 . Genus symbol at 3: 1^6 3^2 9^1 . p=5 G5 = Genus_Symbol_p_adic_ring(5, p_adic_symbol(A, 5, 2)); G5 . Genus symbol at 5: 1^8 5^-1 . p=7 G7 = Genus_Symbol_p_adic_ring(7, p_adic_symbol(A, 7, 2)); G7 . Genus symbol at 7: 1^-8 7^-1 .",
             "url": "https://nb.mathnt.net/jupyter/sagemath/2020/06/17/Genus-symbol.html",
             "relUrl": "/jupyter/sagemath/2020/06/17/Genus-symbol.html",
