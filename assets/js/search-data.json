@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Title",
+            "title": "1이 커진다",
             "content": "nm = Block[{wo = 1}, Table[Graphics[{Style[Text[wo], 150 [Theta], FontFamily -&gt; &quot;굴림&quot;]}, ImageSize -&gt; {400, 400}, PlotRange -&gt; 1], { [Theta], 0, 2, 0.05}] ]; . ListAnimate[nm] . Export[&quot;one.gif&quot;, nm] . &#111;&#110;&#101;&#46;&#103;&#105;&#102; .",
-            "url": "nb.mathnt.net/2020/06/17/%EC%9D%B4-%EC%BB%A4%EC%A7%84%EB%8B%A4.html",
-            "relUrl": "/2020/06/17/%EC%9D%B4-%EC%BB%A4%EC%A7%84%EB%8B%A4.html",
+            "url": "nb.mathnt.net/jupyter/mathematica/2020/06/17/%EC%9D%B4-%EC%BB%A4%EC%A7%84%EB%8B%A4.html",
+            "relUrl": "/jupyter/mathematica/2020/06/17/%EC%9D%B4-%EC%BB%A4%EC%A7%84%EB%8B%A4.html",
             "date": " • Jun 17, 2020"
         }
         
